@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis-and-Clustering-of-Student-Performance-Data
-Analysing Student Performance Data.
+This project analyzes the performance of 100 students based on tutor-marked and computer-marked assessments. I engineered features like a mean score and an Overall Assessment Score to assign grades (Fail, Pass, Merit, Distinction), then used EDA, dimensionality reduction (MDS), and k-means clustering to explore whether students naturally form performance groups. The work demonstrates a full data science pipeline: data cleaning, feature engineering, visualization, clustering, and insights.
